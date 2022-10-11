@@ -28,6 +28,10 @@
 	}
 
 	public static void printTwo() {
+		printTwo();
+		printTwo();
+	}
+	public static void printThree() {
 		printThree();
 		printThree();
 	}
