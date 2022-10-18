@@ -8,4 +8,5 @@
 for ((i=1;i<=5;i++))
 do
    echo "Generated Random Number $i: $RANDOM"
+   echo "Printed random numbers"
 done
